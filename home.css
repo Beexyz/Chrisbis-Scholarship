@@ -1,0 +1,35 @@
+/* CSS for the header section */
+header {
+    background-color: #2290c4;
+    padding: 8px; /* Padding for top and bottom */
+}
+
+.decorative-text {
+    font-family: "elephant",sans-serif;
+    margin-left: 1100px
+}
+
+h1 {
+    font-size: 36px; 
+    color: #0e0d0d; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    display: inline;
+    margin-right: 100px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    float: left;
+    margin-right: 10px;
+}
